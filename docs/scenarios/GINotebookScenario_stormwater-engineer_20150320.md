@@ -93,7 +93,7 @@ edits by tapping or clicking on the *Delete Green Infrastructure*
 button in the *Green Infrastructure edits* listing.
 
 ### Placing green infrastructure in street view 
-TBD
+test
 
 ### Creating a green infrastructure performance report
 TBD
